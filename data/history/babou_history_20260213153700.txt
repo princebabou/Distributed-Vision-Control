@@ -1,0 +1,9 @@
+2026-02-13 15:37:00 - lock started - Face locked
+2026-02-13 15:37:00 - move left - Delta x: -34.5
+2026-02-13 15:37:05 - move right - Delta x: 22.0
+2026-02-13 15:37:06 - move left - Delta x: -63.0
+2026-02-13 15:37:26 - eye blink - EAR: 0.20
+2026-02-13 15:37:38 - move left - Delta x: -51.9
+2026-02-13 15:37:38 - move left - Delta x: -41.5
+2026-02-13 15:37:38 - smile - Curve:5.7
+2026-02-13 15:37:40 - eye blink - EAR: 0.19

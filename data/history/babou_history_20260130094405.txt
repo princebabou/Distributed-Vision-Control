@@ -1,0 +1,4 @@
+2026-01-30 09:44:05 - lock started - Face locked
+2026-01-30 09:44:07 - move left - Delta x: -21.4
+2026-01-30 09:44:07 - move left - Delta x: -20.7
+2026-01-30 09:44:08 - move left - Delta x: -22.2

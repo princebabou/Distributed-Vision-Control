@@ -1,0 +1,19 @@
+2026-02-13 15:40:46 - lock started - Face locked
+2026-02-13 15:40:48 - eye blink - EAR: 0.20
+2026-02-13 15:40:49 - eye blink - EAR: 0.20
+2026-02-13 15:40:50 - eye blink - EAR: 0.19
+2026-02-13 15:40:54 - smile - Curve:6.0
+2026-02-13 15:40:54 - eye blink - EAR: 0.20
+2026-02-13 15:40:55 - eye blink - EAR: 0.19
+2026-02-13 15:40:59 - eye blink - EAR: 0.19
+2026-02-13 15:41:01 - eye blink - EAR: 0.20
+2026-02-13 15:41:01 - eye blink - EAR: 0.20
+2026-02-13 15:41:01 - eye blink - EAR: 0.20
+2026-02-13 15:41:01 - eye blink - EAR: 0.20
+2026-02-13 15:41:01 - eye blink - EAR: 0.19
+2026-02-13 15:41:02 - eye blink - EAR: 0.20
+2026-02-13 15:41:03 - eye blink - EAR: 0.19
+2026-02-13 15:41:03 - eye blink - EAR: 0.19
+2026-02-13 15:41:04 - eye blink - EAR: 0.20
+2026-02-13 15:41:04 - eye blink - EAR: 0.20
+2026-02-13 15:41:04 - eye blink - EAR: 0.18

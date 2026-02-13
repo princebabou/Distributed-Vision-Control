@@ -1,0 +1,18 @@
+2026-02-06 11:19:16 - lock started - Face locked
+2026-02-06 11:19:16 - move right - Delta x: 39.5
+2026-02-06 11:19:16 - smile - Curve:7.0
+2026-02-06 11:19:16 - smile - Curve:10.9
+2026-02-06 11:19:17 - smile - Curve:5.8
+2026-02-06 11:19:17 - move left - Delta x: -20.8
+2026-02-06 11:19:17 - smile - Curve:6.5
+2026-02-06 11:19:17 - smile - Curve:7.1
+2026-02-06 11:19:17 - smile - Curve:7.6
+2026-02-06 11:19:17 - move left - Delta x: -58.4
+2026-02-06 11:19:18 - smile - MAR:0.31
+2026-02-06 11:19:18 - move left - Delta x: -45.6
+2026-02-06 11:19:18 - smile - MAR:0.35
+2026-02-06 11:19:18 - smile - MAR:0.40
+2026-02-06 11:19:18 - smile - MAR:0.32
+2026-02-06 11:19:18 - smile - Curve:6.8
+2026-02-06 11:19:18 - move right - Delta x: 319.8
+2026-02-06 11:19:18 - move left - Delta x: -26.8

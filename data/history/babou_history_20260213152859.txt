@@ -1,0 +1,11 @@
+2026-02-13 15:28:59 - lock started - Face locked
+2026-02-13 15:29:00 - move right - Delta x: 31.1
+2026-02-13 15:29:00 - smile - Curve:12.8
+2026-02-13 15:29:01 - smile - Curve:11.6
+2026-02-13 15:29:02 - smile - Curve:13.0
+2026-02-13 15:29:03 - smile - Curve:14.0
+2026-02-13 15:29:04 - smile - Curve:11.8
+2026-02-13 15:29:04 - smile - Curve:8.2
+2026-02-13 15:29:05 - smile - Curve:8.1
+2026-02-13 15:29:05 - move left - Delta x: -176.1
+2026-02-13 15:29:05 - smile - MAR:0.36

@@ -1,0 +1,33 @@
+2026-02-13 15:46:45 - lock started - Face locked
+2026-02-13 15:46:46 - move right - Delta x: 219.8
+2026-02-13 15:46:46 - smile - Curve:5.7
+2026-02-13 15:46:46 - smile - Curve:6.3
+2026-02-13 15:46:46 - smile - Curve:6.4
+2026-02-13 15:46:46 - smile - Curve:5.4
+2026-02-13 15:46:47 - smile - Curve:5.8
+2026-02-13 15:46:48 - smile - MAR:0.33
+2026-02-13 15:46:49 - move right - Delta x: 95.6
+2026-02-13 15:46:49 - smile - MAR:0.35
+2026-02-13 15:46:50 - move left - Delta x: -247.0
+2026-02-13 15:46:50 - eye blink - EAR: 0.19
+2026-02-13 15:46:50 - smile - Curve:6.9
+2026-02-13 15:46:51 - smile - Curve:15.2
+2026-02-13 15:46:52 - move right - Delta x: 25.0
+2026-02-13 15:46:52 - smile - Curve:18.6
+2026-02-13 15:46:52 - move left - Delta x: -29.4
+2026-02-13 15:46:53 - smile - Curve:10.0
+2026-02-13 15:46:54 - move right - Delta x: 49.9
+2026-02-13 15:46:54 - eye blink - EAR: 0.19
+2026-02-13 15:46:54 - smile - Curve:15.6
+2026-02-13 15:46:55 - move left - Delta x: -74.6
+2026-02-13 15:46:55 - eye blink - EAR: 0.08
+2026-02-13 15:46:55 - smile - Curve:18.0
+2026-02-13 15:46:56 - move right - Delta x: 66.8
+2026-02-13 15:46:56 - smile - Curve:11.2
+2026-02-13 15:46:57 - move right - Delta x: 64.0
+2026-02-13 15:46:57 - smile - Curve:5.6
+2026-02-13 15:46:58 - move left - Delta x: -30.2
+2026-02-13 15:46:58 - eye blink - EAR: 0.20
+2026-02-13 15:46:58 - move left - Delta x: -138.7
+2026-02-13 15:46:59 - smile - MAR:0.31
+2026-02-13 15:46:59 - smile - MAR:0.30
