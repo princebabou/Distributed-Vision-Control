@@ -121,17 +121,4 @@ The PC sends JSON payloads over MQTT:
 ```
 
 ---
-
-## 6. Supplementary (Optional Dashboard)
-A real-time web dashboard is available in `dashboard/index.html`. 
-To host it persistently on your VPS:
-```bash
-# Connect to VPS
-ssh user355@157.173.101.159
-# Run the server in a persistent background process
-nohup python3 -m http.server 8888 --directory ~/site >> ~/site/http.log 2>&1 &
-```
-Access at `http://157.173.101.159:8888`.
-
----
 *Assignment Phase 1 - Distributed Vision-Control*
