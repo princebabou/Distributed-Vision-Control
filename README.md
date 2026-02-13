@@ -1,7 +1,7 @@
 # Distributed Vision-Control System (Phase 1)
 **Course:** Intelligent Robotics  
 **Phase:** Phase 1 (Open-Loop Actuation)  
-**Team:** 355 (User355)
+**Team ID:** team355 
 
 This project implements a distributed system where a PC tracks a face and sends movement commands to an ESP8266-controlled servo motor via an MQTT broker.
 
@@ -126,9 +126,9 @@ To host it persistently on your VPS:
 # Connect to VPS
 ssh user355@157.173.101.159
 # Run the server in a persistent background process
-nohup python3 -m http.server 8888 --directory ~/site >> ~/site/http.log 2>&1 &
+nohup python3 -m http.server 9335 --directory ~/site >> ~/site/http.log 2>&1 &
 ```
-Access at `[http://157.173.101.159:8888](http://157.173.101.159:9335/)`.
+Access at `http://157.173.101.159:9335`.
 
 ---
 *Assignment Phase 1 - Distributed Vision-Control*
