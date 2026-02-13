@@ -128,7 +128,7 @@ ssh user355@157.173.101.159
 # Run the server in a persistent background process
 nohup python3 -m http.server 8888 --directory ~/site >> ~/site/http.log 2>&1 &
 ```
-Access at `http://157.173.101.159:8888`.
+Access at `[http://157.173.101.159:8888](http://157.173.101.159:9335/)`.
 
 ---
 *Assignment Phase 1 - Distributed Vision-Control*
